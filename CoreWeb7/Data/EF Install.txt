@@ -1,0 +1,25 @@
+Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=NewDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False
+
+Install-Package microsoft.EntityFrameworkdCore -v 5.0.17
+Install-Package microsoft.EntityFrameworkdCore.Design -v 5.0.17
+Install-Package microsoft.EntityFrameworkdCore.SqlServer -v 5.0.17
+Install-Package microsoft.EntityFrameworkdCore.Tools -v 5.0.17
+
+Install-Package microsoft.EntityFrameworkCore 
+Install-Package microsoft.EntityFrameworkCore.Design 
+Install-Package microsoft.EntityFrameworkCore.SqlServer 
+Install-Package microsoft.EntityFrameworkCore.Tools 
+
+data access layer
+business layer
+presentation layer
+3 tier arch
+n tier arch
+
+
+
+
+
+
+
+
